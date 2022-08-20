@@ -1,0 +1,13 @@
+.pic{
+    display: flex;
+    float: right;
+}
+.name{
+    color: red;
+}
+button{
+    color: red;
+    background-color: black;
+    border: 2px dotted red;
+    border-radius: 4px;
+}
